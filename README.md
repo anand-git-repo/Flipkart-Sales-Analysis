@@ -12,30 +12,18 @@ Total Quantity Sold: 7 million units.
 
 2. Key Insights
 **A. Top 5 Most Expensive Products**
-**Product Name**	                                         ** Price (₹)**
-Xiaomi 11T Pro 5G Hyperphone (Celestial Magic, 256 GB)	   50,000
-Mi 11 Lite (Vinyl Black, 128 GB)	                         46,000
-Xiaomi 14 CIVI (Matcha Green, 512 GB)	                     44,000
-Xiaomi 14 CIVI (Matcha Green, 256 GB)	                     40,000
-Mi 10T (Cosmic Black, 128 GB)	                             37,000
+![image](https://github.com/user-attachments/assets/3a12ec83-2359-497e-95c0-4951c30f48c8)
+
 **These products cater to the premium segment, indicating Xiaomi's diverse pricing strategy.**
 
 **B. Top 5 Most Selling Products (by Quantity)**
-**Product Name	 **                      **Quantity Sold (Units)**
-Redmi Note 5 Pro (Black, 64 GB)       	1.17 million
-Redmi 8 (Ruby Red, 64 GB)	              0.95 million
-Redmi Note 7 Pro (Blue, 64 GB)          0.85 million
-Redmi 5A (Blue, 16 GB)                 	0.80 million
-Redmi Note 6 Pro (Red, 64 GB)          	0.62 million
+![image](https://github.com/user-attachments/assets/6413eef9-e640-4c74-990e-c21dc50f70e2)
+
 **The mid-range models are the highest-selling, demonstrating their popularity among price-conscious consumers.**
 
 **C. Revenue Analysis**
-**Product Name	**                    **  Total Revenue (₹)**
-Redmi Note 7 Pro (Blue, 64 GB)	     14 billion
-Redmi Note 5 Pro (Black, 64 GB)	     12 billion
-Redmi 8 (Ruby Red, 64 GB)	           10 billion
-Redmi Note 6 Pro (Red, 64 GB)	       6 billion
-Redmi 6 (Rose Gold, 64 GB)	         6 billion
+![image](https://github.com/user-attachments/assets/8dbe6737-39a1-436d-b4dd-82e6ab346d07)
+
 **The revenue analysis highlights products that have both high sales volumes and competitive pricing.**
 
 **Recommendations**
